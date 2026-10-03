@@ -4,7 +4,7 @@
 
 This project analyzes publicly available San Diego Metropolitan Transit System (MTS) monthly ridership data for fiscal year 2026, covering July 2025 through June 2026.
 
-The final deliverables include a reproducible Jupyter notebook and a Power BI report that visualizaes the main findings.
+The final deliverables include a reproducible Jupyter notebook and a Power BI report that visualizes the main findings.
 
 ![Power BI Report](images/overview_v2.png)
 
@@ -47,25 +47,25 @@ The analysis focused on cleaning the FY2026 data, measuring month-to-month rider
 
 - How does total ridership vary month to month, and which transit modes contribute most to those changes?
 
-FY2026 ridership was fairly stable in most months, with the sharpest decline in November 2025 and the strongest rebound in March 2026. Busses contributed slightly more overall to month-to-month ridership movement than Trolleys, while Access contributed very little.
+FY2026 ridership was fairly stable in most months, with the sharpest decline in November 2025 and the strongest rebound in March 2026. Bus usage contributed slightly more overall to month-to-month ridership movement than Trolley use, while Access contributed very little.
 
 ---
 
 - Did Bus and Trolley ridership move together, or were there months where they diverged noticeably?
 
-Bus and Trolley month-to-month percentage changes had a correlation of approximately 0.812, indicating a strong positive relationship during FY2026. This supports the observation that the two modes generally moved together, although a few months—especially August 2025—showed noticeable divergence.
+Bus and Trolley month-to-month percentage changes had a correlation of approximately 0.812, indicating a strong positive relationship during FY2026. This supports the observation that the two modes generally moved together, although a few months - especially August 2025 - showed noticeable divergence.
 
 ---
 
 - How did each mode’s share of total ridership change throughout FY2026?
 
-Mode share changed very little over FY2026. Busses and Trolleys consistently accounted for virtually all ridership, with Trolleys generally holding a modest majority, while Access remained below 1% throughout the year.
+Mode share changed very little over FY2026. The Bus and Trolley consistently accounted for virtually all ridership, with Trolley use generally holding a modest majority, while Access remained below 1% throughout the year.
 
 ---
 
 - How much of total annual ridership came from Bus vs. Trolley vs. Access?
 
-Trolleys accounted for 51.72% of FY2026 ridership compared with 47.82% for Bus, a difference of 3.90 percentage points. Trolley ridership was about 8.2% higher than Bus ridership overall. Access accounted for just 0.46% of annual ridership.
+Trolley use accounted for 51.72% of FY2026 ridership compared with 47.82% for the Bus, a difference of 3.90 percentage points. Trolley ridership was about 8.2% higher than Bus ridership overall. Access accounted for just 0.46% of annual ridership.
 
 
 ## Power BI Report
