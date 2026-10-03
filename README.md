@@ -6,7 +6,7 @@ This project analyzes publicly available San Diego Metropolitan Transit System (
 
 The final deliverables include a reproducible Jupyter notebook and a Power BI report that visualizaes the main findings.
 
-![Power BI Report](images/overview.png)
+![Power BI Report](images/overview_v2.png)
 
 
 ## Analysis Questions
@@ -80,4 +80,4 @@ The report includes:
 
 The Power BI report uses cleaned CSV exports from the analysis notebook. Visuals include a stacked column and line chart for monthly ridership, a scatterplot with a trend line for Bus and Trolley percentage changes, a line chart for monthly mode share, and a pie chart for annual ridership share.
 
-![Power BI Report](images/overview.png)
+![Power BI Report](images/overview_v2.png)
