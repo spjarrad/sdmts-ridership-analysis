@@ -84,5 +84,3 @@ The report combines monthly ridership trends, Bus-Trolley movement, monthly mode
 Spencer Jarrad
 
 Project development, data cleaning, exploratory analysis, and visualization of San Diego MTS ridership data.
-
-Analysis and interpretations were developed using publicly available transit data.
